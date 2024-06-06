@@ -15,3 +15,9 @@
 - Rectangle
 - Square
 - Demo
+
+## Problem 3 - Inheritence & Method Overrriding
+
+- Point
+- Movable Point
+- Demo
