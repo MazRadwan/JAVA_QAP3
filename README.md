@@ -1,4 +1,6 @@
-# JAVA_QAP3
+# Advanced Programming in Java
+
+**QAP3**
 
 ## Problem 1 - Inheritance
 
